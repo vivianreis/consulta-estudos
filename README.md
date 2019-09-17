@@ -7,6 +7,20 @@ Youtube (Java - Spring Boot Essentials - William Suane  ): https://www.youtube.c
 
 SQL <br>
 Quiz: https://www.w3schools.com/sql/sql_quiz.asp <br>
+Importar planilha excel para SQL Server: https://www.brunodba.com/2018/06/18/importando-dados-do-excel-para-o-sql/ <br>
+<br>
+
+DynamoDB <br>
+DynamoDB - Creating Tables Using the AWS SDK for .NET in .NET Core: <br>
+https://www.danieldonbavand.com/dynamodbtable/ <br>
+<br>
+
+Tutorial NET Core 2.0 - AWS Tutorial - Creating a DynamoDB Table <br>
+https://www.youtube.com/watch?v=o3dZCM9i0Ss <br>
+<br>
+
+Tutorial Microsoft .NET e DynamoDB <br>
+https://docs.aws.amazon.com/pt_br/amazondynamodb/latest/developerguide/GettingStarted.NET.html <br>
 <br>
 
 FERRAMENTAS ONLINE PARA FAZER DIAGRAMAS:<br>
