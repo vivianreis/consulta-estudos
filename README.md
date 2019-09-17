@@ -11,12 +11,12 @@ Importar planilha excel para SQL Server: https://www.brunodba.com/2018/06/18/imp
 <br>
 
 DynamoDB <br>
-DynamoDB - Creating Tables Using the AWS SDK for .NET in .NET Core:
-https://www.danieldonbavand.com/dynamodbtable/ 
-Tutorial NET Core 2.0 - AWS Tutorial - Creating a DynamoDB Table:
-https://www.youtube.com/watch?v=o3dZCM9i0Ss 
-Tutorial Microsoft .NET e DynamoDB
-https://docs.aws.amazon.com/pt_br/amazondynamodb/latest/developerguide/GettingStarted.NET.html
+DynamoDB - Creating Tables Using the AWS SDK for .NET in .NET Core: <br>
+https://www.danieldonbavand.com/dynamodbtable/  <br>
+Tutorial NET Core 2.0 - AWS Tutorial - Creating a DynamoDB Table: <br>
+https://www.youtube.com/watch?v=o3dZCM9i0Ss <br>
+Tutorial Microsoft .NET e DynamoDB <br>
+https://docs.aws.amazon.com/pt_br/amazondynamodb/latest/developerguide/GettingStarted.NET.html <br>
 <br>
 
 FERRAMENTAS ONLINE PARA FAZER DIAGRAMAS:<br>
