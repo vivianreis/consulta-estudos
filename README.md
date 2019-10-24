@@ -2,7 +2,10 @@ JAVA <br>
 Compilador online: http://www.compileonline.com/compile_java_online.php <br>
 Curso Java Básico (Loiane Groner): https://loiane.training/curso/java-basico <br>
 Youtube (Java - Loiane): https://www.youtube.com/channel/UCqQn92noBhY9VKQy4xCHPsg <br>
-Youtube (Java - Spring Boot Essentials - William Suane  ): https://www.youtube.com/watch?v=R-F-UcDo_5I&list=PL62G310vn6nF3gssjqfCKLpTK2sZJ_a_1 <br>
+Youtube (Java - Spring Boot Essentials - William Suane): https://www.youtube.com/watch?v=RFUcDo_5I&list=PL62G310vn6nF3gssjqfCKLpTK2sZJ_a_1 <br>
+Spring Initializr https://start.spring.io <br>
+Banco em memória h2 guia legal http://fullstackninja.com.br/h2-database-com-spring-data/ <br>
+https://www.baeldung.com/spring-boot-h2-database <br>
 <br>
 
 SQL <br>
