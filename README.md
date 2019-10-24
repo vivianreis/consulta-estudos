@@ -6,6 +6,7 @@ Youtube (Java - Spring Boot Essentials - William Suane): https://www.youtube.com
 Spring Initializr https://start.spring.io <br>
 Banco em memória h2 guia legal http://fullstackninja.com.br/h2-database-com-spring-data/ <br>
 https://www.baeldung.com/spring-boot-h2-database <br>
+Curso de Spring Boot da Michelli Brito https://www.youtube.com/watch?v=OHn1jLHGptw&list=PL8iIphQOyG-DHLpEx1TPItqJamy08fs1D&index=1 <br>
 <br>
 
 SQL <br>
