@@ -9,11 +9,13 @@ https://www.baeldung.com/spring-boot-h2-database <br>
 Curso de Spring Boot da Michelli Brito https://www.youtube.com/watch?v=OHn1jLHGptw&list=PL8iIphQOyG-DHLpEx1TPItqJamy08fs1D&index=1 <br>
 Curso Java Gustavo Guanabara canal Curso em Vídeo: https://www.youtube.com/watch?v=sTX0UEplF54&list=PLHz_AreHm4dkI2ZdjTwZA4mPMxWTfNSpR </br>
 Curso Java POO Gustavo Guanabara canal Curso em Vídeo: https://www.youtube.com/watch?v=KlIL63MeyMY&list=PLHz_AreHm4dkqe2aR0tQK74m8SFe-aGsY <br>
+Site Michelli Brito https://www.michellibrito.com/<br>
 <br>
 
 SQL <br>
 Quiz: https://www.w3schools.com/sql/sql_quiz.asp <br>
 Importar planilha excel para SQL Server: https://www.brunodba.com/2018/06/18/importando-dados-do-excel-para-o-sql/ <br>
+
 <br>
 
 DynamoDB <br>
@@ -27,6 +29,7 @@ https://docs.aws.amazon.com/pt_br/amazondynamodb/latest/developerguide/GettingSt
 
 FERRAMENTAS ONLINE PARA FAZER DIAGRAMAS:<br>
 https://www.draw.io/ <br>
+DER https://www.dbdesigner.net/ <br>
 <br>
 
 Notes For Professionals<br>
