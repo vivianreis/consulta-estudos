@@ -42,8 +42,8 @@ Dica de curso de testes: Testes unitários em Java domine JUnit, Mockito e TDD <
 https://www.udemy.com/course/testes-unitarios-em-java/learn/lecture/7055188#overview <br>
 <br>
 
-Docker artigo bacana:
-https://dev.to/dearrudam/pt-br-utilizando-docker-no-dia-a-dia-558d
+Docker artigo bacana: <br>
+https://dev.to/dearrudam/pt-br-utilizando-docker-no-dia-a-dia-558d <br>
 
 
 
