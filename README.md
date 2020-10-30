@@ -38,10 +38,12 @@ https://books.goalkicker.com/ <br>
 Dica de curso de React: Curso React + Readux: Fundamentos e 2 App do Absoluto Zero da Cod3r <br>
 https://www.udemy.com/course/react-redux-pt/learn/lecture/6697090#overview <br>
 <br>
-
 Dica de curso de testes: Testes unitários em Java domine JUnit, Mockito e TDD <br>
 https://www.udemy.com/course/testes-unitarios-em-java/learn/lecture/7055188#overview <br>
 <br>
+
+Docker artigo bacana:
+https://dev.to/dearrudam/pt-br-utilizando-docker-no-dia-a-dia-558d
 
 
 
