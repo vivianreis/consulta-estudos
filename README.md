@@ -45,6 +45,10 @@ https://www.udemy.com/course/testes-unitarios-em-java/learn/lecture/7055188#over
 Docker artigo bacana: <br>
 https://dev.to/dearrudam/pt-br-utilizando-docker-no-dia-a-dia-558d <br>
 
+<!--
+Cloud Azure:
+https://maismulheres.tech/
+-->
 
 
 
