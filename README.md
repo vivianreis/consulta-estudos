@@ -16,7 +16,10 @@ SQL <br>
 Quiz: https://www.w3schools.com/sql/sql_quiz.asp <br>
 Importar planilha excel para SQL Server: https://www.brunodba.com/2018/06/18/importando-dados-do-excel-para-o-sql/ <br>
 Conversor de Querys (diversos bancos): http://www.sqlines.com/online <br>
+<br>
 
+GIT <br>
+https://learngitbranching.js.org/?locale=pt_BR <br>
 <br>
 
 DynamoDB <br>
