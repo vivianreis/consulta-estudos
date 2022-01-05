@@ -10,6 +10,7 @@ Curso de Spring Boot da Michelli Brito https://www.youtube.com/watch?v=OHn1jLHGp
 Curso Java Gustavo Guanabara canal Curso em Vídeo: https://www.youtube.com/watch?v=sTX0UEplF54&list=PLHz_AreHm4dkI2ZdjTwZA4mPMxWTfNSpR </br>
 Curso Java POO Gustavo Guanabara canal Curso em Vídeo: https://www.youtube.com/watch?v=KlIL63MeyMY&list=PLHz_AreHm4dkqe2aR0tQK74m8SFe-aGsY <br>
 Site Michelli Brito https://www.michellibrito.com/<br>
+Playlist Kamila Code (To-do-list) https://www.youtube.com/watch?v=un7EgWqgNMs&list=PL_pqVN-1MnwMScqW3AnPR0oA2SiBy0d2_
 <br>
 
 SQL <br>
