@@ -21,6 +21,7 @@ Conversor de Querys (diversos bancos): http://www.sqlines.com/online <br>
 
 GIT <br>
 https://learngitbranching.js.org/?locale=pt_BR <br>
+https://rogerdudler.github.io/git-guide/index.pt_BR.html <br>
 <br>
 
 DynamoDB <br>
