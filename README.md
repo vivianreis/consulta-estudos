@@ -54,6 +54,7 @@ https://dev.to/dearrudam/pt-br-utilizando-docker-no-dia-a-dia-558d <br>
 
 Entrevistas estudos: <br>
 https://www.fullstack.cafe/ <br>
+https://www.codility.com/ <br>
 <br>
 
 <!--
