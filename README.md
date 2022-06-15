@@ -59,7 +59,8 @@ https://www.codility.com/ <br>
 
 <!--
 Cloud Azure:
-https://maismulheres.tech/
+https://maismulheres.tech/ <br>
+https://www.pramp.com/ <br>
 -->
 
 
