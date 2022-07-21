@@ -14,6 +14,7 @@ Playlist Kamila Code (To-do-list) https://www.youtube.com/watch?v=un7EgWqgNMs&li
 <br>
 
 SQL <br>
+Ferramenta para aprende SQL sem precisar instalar nada. Tudo diretamente pelo browser de forma interativa https://sqlbolt.com/ <br>
 Quiz: https://www.w3schools.com/sql/sql_quiz.asp <br>
 Importar planilha excel para SQL Server: https://www.brunodba.com/2018/06/18/importando-dados-do-excel-para-o-sql/ <br>
 Conversor de Querys (diversos bancos): http://www.sqlines.com/online <br>
