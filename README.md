@@ -13,6 +13,10 @@ Site Michelli Brito https://www.michellibrito.com/<br>
 Playlist Kamila Code (To-do-list) https://www.youtube.com/watch?v=un7EgWqgNMs&list=PL_pqVN-1MnwMScqW3AnPR0oA2SiBy0d2_
 <br>
 
+LIVROS/APOSTILAS - JAVA - Iniciantes: <br>
+Apostila Alura Java OO https://www.caelum.com.br/apostila/apostila-java-orientacao-objetos.pdf <br>
+Use a Cabeça Java; Java Como Programar <br>
+
 SQL <br>
 Ferramenta para aprende SQL sem precisar instalar nada. Tudo diretamente pelo browser de forma interativa https://sqlbolt.com/ <br>
 Quiz: https://www.w3schools.com/sql/sql_quiz.asp <br>
