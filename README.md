@@ -62,6 +62,10 @@ Engoo https://engoo.com.br/?gclid=Cj0KCQiAz9ieBhCIARIsACB0oGIhPqGqYPOZrZAFWoSI2s
 Kultivi https://kultivi.com/ <br>
 <br>
 
+APIs públicas: <br>
+https://publicapis.dev/ <br>
+<br>
+
 Planta: <br>
 https://floorplanner.com/ </br>
 <br>
