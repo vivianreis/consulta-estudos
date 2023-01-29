@@ -57,12 +57,21 @@ Docker artigo bacana: <br>
 https://dev.to/dearrudam/pt-br-utilizando-docker-no-dia-a-dia-558d <br>
 <br>
 
+Inglês: <br>
+Engoo https://engoo.com.br/?gclid=Cj0KCQiAz9ieBhCIARIsACB0oGIhPqGqYPOZrZAFWoSI2s-r5qnyjlKH9H-Ds0mTlwfRE3EG9rqI0C4aArJkEALw_wcB <br>
+Kultivi https://kultivi.com/ <br>
+<br>
+
+Planta: <br>
+https://floorplanner.com/ </br>
+<br>
+
+<!--
 Entrevistas estudos: <br>
 https://www.fullstack.cafe/ <br>
 https://www.codility.com/ <br>
 <br>
 
-<!--
 Cloud Azure:
 https://maismulheres.tech/ <br>
 https://www.pramp.com/ <br>
