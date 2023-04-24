@@ -66,6 +66,10 @@ APIs públicas: <br>
 https://publicapis.dev/ <br>
 <br>
 
+Guia: <br>
+https://techguide.sh/ <br>
+Kamila Code* (pdf) <br>
+
 Planta: <br>
 https://floorplanner.com/ </br>
 <br>
