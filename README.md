@@ -74,6 +74,9 @@ Planta: <br>
 https://floorplanner.com/ </br>
 <br>
 
+Dicas uteis memória/disco Windows:
+https://www.youtube.com/watch?v=M_Zf1K71IAM
+
 <!--
 Entrevistas estudos: <br>
 https://www.fullstack.cafe/ <br>
